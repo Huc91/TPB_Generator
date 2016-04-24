@@ -1,0 +1,1 @@
+python /Users/lucaucciero/Desktop/tpb_generator/tpb_ta_scrape.py
