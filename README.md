@@ -1,6 +1,4 @@
 The_Pirate_Bay_Most_Downloaded_Torrent_Generator
-Luca Ucciero
-ISIA Urbino
 
 ENGLISH ABSTRACT
 
